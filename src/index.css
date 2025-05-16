@@ -1,0 +1,25 @@
+* {
+  background-color: rgb(29, 29, 29);
+  color: aliceblue;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div ul {
+  text-align: center;
+  list-style: none;
+}
+
+div ul li {
+  margin: 0.5rem;
+}
+
+.guest-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
